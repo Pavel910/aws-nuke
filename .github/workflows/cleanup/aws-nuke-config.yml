@@ -10,11 +10,11 @@ accounts:
   "656932293860":
     filters:
       IAMUser:
-        - "FULLACCESS"
+        - "pavel"
       IAMUserPolicyAttachment:
-        - "FULLACCESS -> AdministratorAccess"
+        - "pavel -> AdministratorAccess"
       IAMUserAccessKey:
-        - "FULLACCESS -> AKIAZR5BXJTSDFWR5L4A"
+        - "pavel -> AKIAZR5BXJTSNAVYML7G"
 
 resource-types:
   excludes:
