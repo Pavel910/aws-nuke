@@ -19,3 +19,6 @@ accounts:
 resource-types:
   excludes:
     - Budget
+
+blocklist:
+  - "999999999999" # production
